@@ -15,7 +15,7 @@ pipeline {
         KUBECONFIG_CREDENTIAL_ID = 'kubeconfig'
         REGISTRY = 'ccr.ccs.tencentyun.com'
         DOCKERHUB_NAMESPACE = 'chengsj'
-        GITHUB_ACCOUNT = 'chengsj'
+        GITHUB_ACCOUNT = 'chengshaojia'
         APP_NAME = 'devops-java-sample'
     }
 
